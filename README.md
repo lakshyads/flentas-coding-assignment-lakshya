@@ -1,7 +1,7 @@
 # flentas-coding-assignment-lakshya
 Coding Assignment for Flentas
 
-* This assignment is coded in javascript and uses Node.JS.
+* This assignment is coded in javascript and uses Node.JS and is solved using dynamic programming and bit masking.
 * For providing input, either replace input in ```input.txt``` file
 * OR create a new text file with valid input and provide path in the code file in 2nd line from top.
 ---
