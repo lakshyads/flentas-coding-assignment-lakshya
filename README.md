@@ -1,9 +1,9 @@
 # flentas-coding-assignment-lakshya
 Coding Assignment for Flentas
 
-* This assignment is coded in javascript and uses Node.JS and is solved using dynamic programming and bit masking.
-* For providing input, either replace input in ```input.txt``` file
-* OR create a new text file with valid input and provide path in the code file in 2nd line from top.
+- This assignment is coded in javascript and uses Node.JS and is solved using dynamic programming and bit masking.
+- **For providing input, either replace input in ```input.txt``` file**
+- OR **create a new text file with valid input and provide path in the code file in 2nd line from top.**
 ---
 ---
 ## Problem Statements
@@ -30,21 +30,23 @@ For each test case, print the minimum cost required so that all people can reach
 
 ---
 
-```Sample Input```
-4
-4
-300 400 600 700
-2
-1321 2450
-3
-500 123 873
-4
+Sample Input
+
+4  
+4  
+300 400 600 700  
+2  
+1321 2450  
+3  
+500 123 873  
+4  
 600 800 150 700
 
 ---
 
-```Sample Output```
-2200
-2450
-1496
-2400
+Sample Output
+
+2200  
+2450  
+1496  
+2400  
